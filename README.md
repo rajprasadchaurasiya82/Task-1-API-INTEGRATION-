@@ -12,10 +12,10 @@
 
 "Mentor":Neela Santhosh
 
-🧾 Introduction
+🔗Introduction
 The Weather Casting Web App is a simple yet effective weather application built using HTML, CSS, and JavaScript. It allows users to input any city name and receive real-time weather data, including temperature, humidity, and weather conditions, powered by the OpenWeatherMap API. This project demonstrates how front-end technologies can interact with real-world APIs to create functional, interactive web experiences.
 
-📦 What This Project Includes
+🔗What This Project Includes
 A responsive and clean HTML structure.
 
 A CSS stylesheet for layout and design styling.
@@ -26,7 +26,7 @@ Integration with OpenWeatherMap API for real-time data.
 
 User-friendly alerts and error handling for better UX.
 
-✨ Key Features
+ 🔗Key Features
 🔍 City-based weather search
 
 📡 Live weather data from OpenWeatherMap
@@ -48,7 +48,7 @@ JavaScript (ES6+) – for logic, DOM interaction, and API integration
 
 OpenWeatherMap API – for weather data
 
-📚 What I Learned
+🔗 What I Learned?
 How to fetch and display real-time data from an API
 
 Error handling in asynchronous JavaScript (try-catch)
@@ -61,7 +61,7 @@ Improving UX through loading messages and alert popups
 
 Basics of flexbox and responsive design with CSS
 
-🗂 Sections of the Website
+🔗Sections of the Website
 Header Section – Displays the app title
 
 Input Field – User enters city name
