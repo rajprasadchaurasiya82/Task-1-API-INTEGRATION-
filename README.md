@@ -8,6 +8,7 @@
 
 "Domain":Full Stack web development
 
-"Duration":1 days
+"Duration":4 weeks
 
 "Mentor":Neela Santhosh
+
