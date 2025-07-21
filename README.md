@@ -12,3 +12,6 @@
 
 "Mentor":Neela Santhosh
 
+
+#Output:<img width="1878" height="1064" alt="Image" src="https://github.com/user-attachments/assets/03489dca-4343-4104-baca-e4d6cf4ecacf" />
+
